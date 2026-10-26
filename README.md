@@ -1,5 +1,7 @@
 # InternPilot 求职准备交互原型
 
+[在线体验原型](https://internpilot-flow-prototype-20261024.chirpyflute258.chatgpt.site/)
+
 本原型用五步路径串联学生求职准备：
 
 1. 设定目标，收藏多个具体岗位；可粘贴 JD 原文、保存来源与旧版，筛选、优先推进或归档岗位。
@@ -11,6 +13,12 @@
 ## 运行
 
 `dist/` 是无需构建的静态站点。在该目录启动静态 HTTP 服务即可预览。
+
+## 项目资料
+
+- `docs/flows/`：已有的项目流程图 PDF。
+- `docs/concept/`：概念与系统架构参考图。
+- `docs/ui-reference/`：早期界面草图。当前原型以功能流程为主，视觉风格不沿用草图。
 
 ## 原型边界
 
